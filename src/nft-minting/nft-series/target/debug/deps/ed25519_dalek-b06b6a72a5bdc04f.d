@@ -1,0 +1,11 @@
+/Users/tcoratger/Documents/grindery-near-contracts/nft-series/target/debug/deps/ed25519_dalek-b06b6a72a5bdc04f.rmeta: /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/Users/tcoratger/Documents/grindery-near-contracts/nft-series/target/debug/deps/ed25519_dalek-b06b6a72a5bdc04f.d: /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs:

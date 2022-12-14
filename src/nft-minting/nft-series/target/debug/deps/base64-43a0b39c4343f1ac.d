@@ -1,0 +1,12 @@
+/Users/tcoratger/Documents/nft-tutorial/nft-series/target/debug/deps/base64-43a0b39c4343f1ac.rmeta: /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/Users/tcoratger/Documents/nft-tutorial/nft-series/target/debug/deps/base64-43a0b39c4343f1ac.d: /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs:
+/Users/tcoratger/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs:
